@@ -4,7 +4,6 @@
 - ✅ Open to work
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning Javascript,React and TypeScript
-- 🤔 I’m looking for help
 
 
  <div align="center">
